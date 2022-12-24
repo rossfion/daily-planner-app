@@ -1,0 +1,15 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    <Fionn Ross> -- <Person of Talent/Catalogue Raisonné Scholar & Web Developer> -- <https://www.linkedin.com/in/fionnross/>
+
+# THANKS
+
+    <Brad Traversy & Zavarellla, Eduonix 2014>
+
+# TECHNOLOGY COLOPHON
+
+    CSS3, HTML5, Bootstrap 3.3.7, JQuery 1.12.4
+    Apache Server Configs, jQuery, Modernizr, Normalize.css
